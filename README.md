@@ -10,6 +10,8 @@ In BKMeans/src/org/soa/bkmeans/Jobs.java  si deve impostare l'attributo della cl
 
 La versione sequenziale funziona correttamente.
 
-codice R contiene gli script utilizzati per graficare i risultati illustrati dettagliatamente nella tesina allegata.
+Il codice R contiene gli script utilizzati per graficare i risultati illustrati dettagliatamente nella tesina allegata.
+
+L'input del progetto può essere computato con questo [programma](https://github.com/giograno/hadoop-features-extraction)
 
 Luciano Giuseppe e [Farisano Gino](https://github.com/ginofarisano)
